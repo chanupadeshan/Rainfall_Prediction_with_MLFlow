@@ -9,31 +9,7 @@ This project predicts rainfall based on weather conditions using machine learnin
 - Model evaluation with metrics and confusion matrices
 - MLFlow integration for experiment tracking
 
-## How to Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/chanupadeshan/Rainfall_Prediction_with_MLFlow.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Rainfall_Prediction_with_MLFlow
-   ```
-
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the Streamlit UI:
-
-   ```bash
-   streamlit run UI/ui.py
-   ```
 
 ## Project Structure
 
