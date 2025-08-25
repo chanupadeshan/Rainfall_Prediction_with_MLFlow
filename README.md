@@ -24,7 +24,4 @@ This project predicts rainfall based on weather conditions using machine learnin
 - MLFlow
 - Pandas
 
-## License
-
-This project is licensed under the MIT License.
 
